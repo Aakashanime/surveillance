@@ -1,0 +1,50 @@
+body{
+    background-size: cover;
+
+}
+
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+#start, #number_of_objects, #status
+{
+    font-size: 18px;
+
+}
+
+
+.copy_right_footer
+{
+    position: fixed;
+    color: greenyellow;
+    font-size: large;
+    bottom: 0;
+    width: 100%;
+    background-color: mediumorchid;
+    line-height: 3;
+    text-align: center;
+
+}
+
+canvas {
+    border: 5px solid paleturquoise;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px rosybrown;
+    background-color: khaki;
+
+}
+
+#fname {
+    color: rgb(31, 183, 183);
+}
+
+.color {
+    color: blue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+}
